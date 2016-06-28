@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWebApi", "AngularWebApi\AngularWebApi.csproj", "{30D51386-4D1E-4C0C-A671-35DBC9E06913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularWebApi.Tests", "AngularWebApi.Tests\AngularWebApi.Tests.csproj", "{98E195B2-7CFE-4A21-B8C0-73675B27D705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D51386-4D1E-4C0C-A671-35DBC9E06913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D51386-4D1E-4C0C-A671-35DBC9E06913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D51386-4D1E-4C0C-A671-35DBC9E06913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D51386-4D1E-4C0C-A671-35DBC9E06913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E195B2-7CFE-4A21-B8C0-73675B27D705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E195B2-7CFE-4A21-B8C0-73675B27D705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E195B2-7CFE-4A21-B8C0-73675B27D705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E195B2-7CFE-4A21-B8C0-73675B27D705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
